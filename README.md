@@ -1,0 +1,2 @@
+# Ecommerce-
+Wish is an American online e-commerce platform that facilitates transactions between sellers and buyers Wish is operated by ContextLogic Inc. in San Francisco, United States. The platform employs browsing technologies which personalise shopping visually for each customer, rather than relying on a search bar format. It allows sellers to list their products on Wish and sell directly to consumers. Wish works with payment service providers to handle payments and does not stock the products themselves or manage returns.
